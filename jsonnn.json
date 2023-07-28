@@ -1,10 +1,10 @@
 {
 
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
+  "applovin_banner_id": "c237fd875f2dde03",
+  "applovin_interstitial_id": "b8acbff32bad8718",
+  "applovin_native_id": "898ee3d7fc156f75",
+  "applovin_rewarded_id": "ce3a7a98cc14d208",
   "max": false,
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -28,8 +28,8 @@
   
   "rate": false,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate":1,
   
    "show_cpa": false,
   "cpa_image": "",
@@ -48,10 +48,10 @@
 
   "guides": [
 	{
-	 "image": "https://iili.io/HQqRyZB.png",
-	 "title": "million ball jogo",
-	 "text": "Aplicativos para Ganhar Dinheiro",
-	 "text_two": "App que ganha dinheiro de verdade",
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
 
 	 "isWeb": false,
 	 "url": "xxxx",
@@ -61,10 +61,10 @@
 
 	},
 	{
-	 "image": "https://iili.io/HQqRyZB.png",
-	 "title": "million ball jogo",
-	 "text": "Banco digital pagando no Cadastro",
-	 "text_two": "App pagando no cadastro",
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
 
 	 "isWeb": false,
 	 "url": "xxxx",
@@ -74,10 +74,10 @@
 	 
 	},
 	{
-	 "image": "https://iili.io/HQqRyZB.png",
-	 "title": "million ball jogo",
-	 "text": "App pagando no Pix",
-	 "text_two": "Jogo que ganha dinheiro de verdade",
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
 
 	 "isWeb": false,
 	 "url": "xxxx",
@@ -87,10 +87,10 @@
 
 	},
 	{
-	"image": "https://iili.io/HQqRyZB.png",
-	 "title": "million ball jogo",
-	 "text": "Aplicativo que Realmente dá Dinheiro de Verdade",
-	 "text_two": "Ganhar Dinheiro Assistindo a Videos",
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
 
 	 "isWeb": false,
 	 "url": "xxxx",
@@ -100,9 +100,9 @@
 
 	},
 	{
-	"image": "https://iili.io/HQqRyZB.png",
-	 "title": "million ball jogo",
-	 "text": "Aplicativo para ganhar dinheiro Assistindo Videos",
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
 	 "text_two": "xxxx",
 
 	 "isWeb": false,
@@ -113,10 +113,10 @@
 
 	},
 	{
-	"image": "https://iili.io/HQqRyZB.png",
-	 "title": "million ball jogo",
-	 "text": "Ganhar Dinheiro na Internet",
-	 "text_two": "MILLION BALL JOGO PAGA MESMO?",
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
 
 	 "isWeb": false,
 	 "url": "xxxx",
